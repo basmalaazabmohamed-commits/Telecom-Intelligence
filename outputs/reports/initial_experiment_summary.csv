@@ -1,0 +1,5 @@
+Category,Model,Score
+Best Validation ROC-AUC,LightGBM,0.6982093499467292
+Best Cross-Validation ROC-AUC,LightGBM,0.6948418084956276
+Lowest Brier Score,LightGBM,0.21956452367212526
+Highest Recall,CatBoost,0.6536650975117687

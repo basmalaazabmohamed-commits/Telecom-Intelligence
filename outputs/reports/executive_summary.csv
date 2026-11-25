@@ -1,0 +1,28 @@
+Key_Performance_Indicator,Value
+Project,Telecom Intelligence
+Business_Objective,Revenue-Aware Customer Retention
+Total_Customers,100000
+Training_Customers,70000
+Validation_Customers,15000
+Independent_Test_Customers,15000
+Champion_Model,Tuned XGBoost
+Calibration_Method,Uncalibrated
+Decision_Threshold,0.33
+Test_ROC_AUC,0.6936584102406222
+Test_Accuracy,0.5914666666666667
+Test_F1,0.6886811623653729
+Test_Recall,0.9117567931127253
+Test_Precision,0.5533061224489796
+Test_Brier_Score,0.22072771039246442
+ROC_AUC_CI_Lower,0.6850619698415711
+ROC_AUC_CI_Upper,0.7016621578770038
+Lift_at_20_Percent,1.4951573849878934
+Precision_at_20_Percent,0.741
+Campaign_Customers,3000
+Expected_Saved_Customers,267.24008568003774
+Expected_Retained_Revenue,176251.5550835343
+Expected_Net_Contribution,45750.933050120584
+Expected_Campaign_ROI,76.2515550835343
+System_Tests_Passed,True
+Monitoring_Status,CRITICAL
+Financial_Results_Type,Assumption-based simulation

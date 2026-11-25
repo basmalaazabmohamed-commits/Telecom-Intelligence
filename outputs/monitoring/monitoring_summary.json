@@ -1,0 +1,15 @@
+{
+    "Monitoring_Type": "Synthetic Drift Simulation",
+    "Status": "CRITICAL",
+    "Critical_Features": [
+        "rev_Mean",
+        "eqpdays"
+    ],
+    "Warning_Features": [
+        "mou_Mean",
+        "change_mou",
+        "avg3mou"
+    ],
+    "Prediction_PSI": 0.5285901355606657,
+    "Recommended_Action": "Investigate data quality and distribution shifts. Evaluate performance with new labels before retraining."
+}

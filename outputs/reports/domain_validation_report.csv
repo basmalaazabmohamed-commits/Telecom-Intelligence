@@ -1,0 +1,12 @@
+Feature,Minimum_Allowed,Actual_Minimum,Invalid_Count,Invalid_Percentage
+eqpdays,0,-5.0,104,0.14857142857142858
+months,0,6.0,0,0.0
+phones,0,1.0,0,0.0
+models,0,1.0,0,0.0
+uniqsubs,0,1.0,0,0.0
+actvsubs,0,0.0,0,0.0
+mou_Mean,0,0.0,0,0.0
+attempt_Mean,0,0.0,0,0.0
+complete_Mean,0,0.0,0,0.0
+drop_blk_Mean,0,0.0,0,0.0
+custcare_Mean,0,0.0,0,0.0

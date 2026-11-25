@@ -1,0 +1,17 @@
+{
+    "objective": "binary:logistic",
+    "eval_metric": "auc",
+    "tree_method": "hist",
+    "n_estimators": 850,
+    "learning_rate": 0.016541880258362954,
+    "max_depth": 8,
+    "min_child_weight": 6.823691245350038,
+    "subsample": 0.7327053995934338,
+    "colsample_bytree": 0.8275415741881326,
+    "gamma": 1.4438847583202958,
+    "reg_alpha": 1.3929035755514594,
+    "reg_lambda": 0.9031727905227256,
+    "n_jobs": 8,
+    "random_state": 42,
+    "verbosity": 0
+}

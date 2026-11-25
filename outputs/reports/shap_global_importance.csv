@@ -1,0 +1,152 @@
+Feature,Mean_Absolute_SHAP
+numeric__eqpdays,0.22950599
+numeric__change_mou,0.15840723
+numeric__months,0.14552355
+numeric__revenue_per_minute,0.08757472
+numeric__hnd_price,0.07137248
+numeric__lor,0.06949248
+numeric__totmrc_Mean,0.067872755
+numeric__equipment_tenure_ratio,0.0657864
+numeric__avgqty,0.064303495
+numeric__recurring_charge_ratio,0.06345343
+numeric__drop_vce_Mean,0.06055568
+numeric__avgmou,0.054618284
+numeric__avg3mou,0.049210474
+numeric__ovrmou_Mean,0.04784424
+categorical__asl_flag_N,0.046300184
+numeric__call_volume_trend,0.043886762
+numeric__equipment_upgrade_frequency,0.04337094
+numeric__uniqsubs,0.03983462
+numeric__household_active_ratio,0.037813485
+numeric__iwylis_vce_Mean,0.036866713
+numeric__usage_trend_ratio,0.035777047
+numeric__vceovr_Mean,0.03572318
+numeric__avg6mou,0.035592806
+numeric__call_completion_ratio,0.03455537
+numeric__avgrev,0.034516092
+numeric__call_failure_ratio,0.03161106
+numeric__change_rev,0.030828044
+numeric__revenue_change_gap,0.029960604
+numeric__totcalls,0.02908513
+numeric__incoming_outgoing_ratio,0.02877855
+numeric__mou_cvce_Mean,0.027361944
+numeric__missing_feature_count,0.026313951
+numeric__mou_opkv_Mean,0.024961472
+numeric__totrev,0.022867033
+numeric__mouiwylisv_Mean,0.022485781
+numeric__rev_Mean,0.022052435
+numeric__opk_vce_Mean,0.020820312
+numeric__totmou,0.019894632
+categorical__area_NORTHWEST/ROCKY MOUNTAIN AREA,0.018659094
+categorical__refurb_new_N,0.018246353
+numeric__mouowylisv_Mean,0.018239226
+numeric__missingindicator_revenue_per_minute,0.01822433
+numeric__threeway_Mean,0.017966067
+numeric__avg6rev,0.017671198
+categorical__hnd_webcap_WCMB,0.017550323
+numeric__usage_change_gap,0.01747869
+numeric__peak_vce_Mean,0.017164584
+numeric__actvsubs,0.016664196
+categorical__area_DC/MARYLAND/VIRGINIA AREA,0.016472394
+numeric__roam_Mean,0.015511449
+numeric__recv_vce_Mean,0.014654603
+numeric__avg6qty,0.013971573
+numeric__mou_peav_Mean,0.013580322
+numeric__customer_care_intensity,0.013204489
+numeric__avg3qty,0.012766884
+numeric__mou_rvce_Mean,0.01126416
+numeric__drop_blk_Mean,0.011029989
+numeric__cc_mou_Mean,0.011019083
+numeric__unan_vce_Mean,0.010804475
+numeric__avg3rev,0.010591318
+numeric__da_Mean,0.009506558
+numeric__missingindicator_lor,0.009289094
+numeric__missingindicator_change_mou,0.009245252
+numeric__owylis_vce_Mean,0.009198255
+categorical__dualband_Y,0.0088041555
+numeric__plcd_vce_Mean,0.008165931
+numeric__blck_vce_Mean,0.007889265
+numeric__custcare_Mean,0.0075506154
+categorical__dualband_N,0.007478693
+categorical__asl_flag_Y,0.0070620636
+numeric__callwait_Mean,0.007059772
+categorical__infobase___MISSING__,0.006436726
+numeric__adults,0.0063805394
+categorical__area_SOUTH FLORIDA AREA,0.006340242
+numeric__truck,0.0062667294
+categorical__area_NORTH FLORIDA AREA,0.005497236
+categorical__area_OHIO AREA,0.0051043746
+categorical__area_SOUTHWEST AREA,0.005088728
+categorical__area_MIDWEST AREA,0.004616363
+numeric__numbcars,0.0044477694
+numeric__phones,0.0041648536
+categorical__hnd_webcap___MISSING__,0.0039554895
+numeric__datovr_Mean,0.0038379838
+categorical__infobase_M,0.003757562
+categorical__refurb_new_R,0.0033349132
+numeric__models,0.0031228005
+numeric__missingindicator_eqpdays,0.0030306703
+categorical__area_GREAT LAKES AREA,0.0029587618
+categorical__new_cell_U,0.0028744575
+numeric__opk_dat_Mean,0.0025248262
+numeric__comp_dat_Mean,0.0021678233
+numeric__missingindicator_numbcars,0.0020091443
+categorical__hnd_webcap_WC,0.0019361539
+categorical__area_LOS ANGELES AREA,0.0019197236
+numeric__missingindicator_truck,0.0018380667
+numeric__rv,0.0018285881
+categorical__area_HOUSTON AREA,0.0018155273
+categorical__new_cell_Y,0.0017548313
+numeric__plcd_dat_Mean,0.0016337892
+numeric__recv_sms_Mean,0.0015784078
+numeric__peak_dat_Mean,0.0015622525
+categorical__new_cell_N,0.0015553606
+categorical__area_TENNESSEE AREA,0.0014680717
+categorical__area_NEW YORK CITY AREA,0.0013920022
+numeric__missingindicator_change_rev,0.0013281567
+numeric__unan_dat_Mean,0.0012054469
+numeric__blck_dat_Mean,0.001103263
+numeric__missingindicator_adults,0.0010611743
+numeric__missingindicator_call_volume_trend,0.0007973655
+categorical__area_CENTRAL/SOUTH TEXAS AREA,0.0007515515
+categorical__area_ATLANTIC SOUTH AREA,0.0007411384
+categorical__area_PHILADELPHIA AREA,0.0007386452
+numeric__missingindicator_hnd_price,0.00071260694
+numeric__missingindicator_usage_trend_ratio,0.0006732812
+numeric__forgntvl,0.0006240244
+categorical__area_CHICAGO AREA,0.000588076
+numeric__missingindicator_equipment_tenure_ratio,0.0005158392
+categorical__area_CALIFORNIA NORTH AREA,0.00039078735
+numeric__missingindicator_rv,0.00038439818
+categorical__area_DALLAS AREA,0.0003746144
+categorical__area_NEW ENGLAND AREA,0.00029940065
+numeric__missingindicator_avg6mou,0.0002973794
+numeric__drop_dat_Mean,0.0002608168
+categorical__dualband_T,0.0002464246
+numeric__missingindicator_call_failure_ratio,6.818156e-05
+numeric__missingindicator_call_completion_ratio,3.3749275e-05
+numeric__callfwdv_Mean,2.9492307e-05
+categorical__infobase_N,2.9362665e-05
+numeric__missingindicator_recurring_charge_ratio,2.8781355e-05
+numeric__missingindicator_forgntvl,2.8776114e-05
+numeric__missingindicator_vceovr_Mean,0.0
+numeric__missingindicator_da_Mean,0.0
+numeric__missingindicator_totmrc_Mean,0.0
+numeric__missingindicator_rev_Mean,0.0
+numeric__missingindicator_datovr_Mean,0.0
+numeric__missingindicator_roam_Mean,0.0
+numeric__missingindicator_ovrmou_Mean,0.0
+numeric__missingindicator_revenue_change_gap,0.0
+numeric__missingindicator_equipment_upgrade_frequency,0.0
+numeric__missingindicator_models,0.0
+numeric__missingindicator_avg6qty,0.0
+numeric__missingindicator_avg6rev,0.0
+numeric__missingindicator_customer_care_intensity,0.0
+numeric__missingindicator_phones,0.0
+numeric__missingindicator_incoming_outgoing_ratio,0.0
+numeric__missingindicator_usage_change_gap,0.0
+categorical__area___MISSING__,0.0
+categorical__dualband_infrequent_sklearn,0.0
+categorical__dualband_U,0.0
+categorical__refurb_new_infrequent_sklearn,0.0
+categorical__hnd_webcap_UNKW,0.0
